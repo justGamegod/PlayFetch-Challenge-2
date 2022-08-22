@@ -1,2 +1,2 @@
 # Playfetch-Challenge-2
- Challenge 2 solution completed
+Solution to maliyo/Unity Challenge 2 completed
